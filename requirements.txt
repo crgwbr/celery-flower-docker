@@ -1,3 +1,14 @@
-Celery==3.1.16
+amqp==1.4.6
+anyjson==0.3.3
+backports.ssl-match-hostname==3.4.0.2
+billiard==3.3.0.20
+celery==3.1.16
+certifi==2015.4.28
 flower==0.7.3
 gevent==1.0.1
+greenlet==0.4.7
+kombu==3.0.26
+pytz==2015.4
+redis==2.10.3
+tornado==4.2.1
+wheel==0.24.0
